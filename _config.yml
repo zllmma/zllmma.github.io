@@ -5,16 +5,15 @@
 # Site
 title: C02's Blog
 subtitle: ''
-description: ''
-keywords:
+description: 'C02 的个人博客'
+keywords: programming, math
 author: C02
 language: zh
 timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://zllmma.github.io
-root: /
+url: https://zllmma.github.io
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
